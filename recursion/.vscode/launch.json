@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/ALL LEARNINGS RELATED TO PROGRAMMING/RECURSIONS and DYNAMIC PROGRAMMING/recursion",
-      "program": "d:/ALL LEARNINGS RELATED TO PROGRAMMING/RECURSIONS and DYNAMIC PROGRAMMING/recursion/build/Debug/outDebug",
+      "cwd": "d:/ALL PROGRAMMING/RECURSION_AND_DYNAMIC_PROGRAMMING/recursion",
+      "program": "d:/ALL PROGRAMMING/RECURSION_AND_DYNAMIC_PROGRAMMING/recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
